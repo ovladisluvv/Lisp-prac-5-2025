@@ -36,9 +36,9 @@
     │ ├── task2_geom.lsp
     │ └── lisp2_25.pdf
     │
-    └── report
-      ├── report_lisp_ovl.pdf
-      └── report_lisp_ovl.tex
+    ├── report
+    │ ├── report_lisp_ovl.pdf
+    │ └── report_lisp_ovl.tex
 ```
 где taskN*.lsp - реализация задания N, lispN_25.pdf - условие задания N, report_lisp_ovl.pdf - готовый отчет, report_lisp_ovl.tex - исходный LaTeX-код отчета
 
